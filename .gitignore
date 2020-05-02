@@ -1,2 +1,14 @@
 *.o
-build/main
+build
+build/*
+aclocal.m4
+autom4te.cache
+autoscan.log
+compile
+config.h.in
+configure
+depcomp
+install-sh
+Makefile.in
+missing
+old_build/main
