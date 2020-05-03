@@ -9,4 +9,4 @@ firstgl_SOURCES = \
 				  src/shader.cpp \
 				  src/shader.h
 
-firstgl_LDADD = @opengl_LIBS@
+firstgl_LDFLAGS = @opengl_LIBS@
